@@ -1,0 +1,8 @@
+html,body { height:100%; background-color: black; }
+body { margin:0 auto; }
+header { position:relative; width:900px; height:300px;
+    background-color: pink;}
+section { position:absolute; top:300px; width:900px; height:600px;
+    background-color: yellow;}
+footer { position:absolute; top: 900px; width:900px; height:300px;
+    background-color: blue;}
